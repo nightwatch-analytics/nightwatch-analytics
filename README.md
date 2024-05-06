@@ -1,31 +1,24 @@
 # Hi, I’m @nightwatch-analytics
  
- I’m a demographer based in Texas! I specialize in community design and development through the lenses of 
-   - local politics
-   - public education
+ I’m a demographer based in Texas! I specialize in community design and development through the lenses of:
+   - public policy
+   - education
    - economics
-   - construction
+   - land use
    - public health
    - religion
 
 # Skillset
 
-  - Analytic Toolkit Development
   - Market Analysis
   - Demographic Studies
+  - Location Intelligence
   - Workflow Optimization
 
-# Techstack
-
-  - R Programming
-  - Quarto
-  - VBA
-  - QGIS
-  - LibreOffice
-
-# Some cool organizations I've done work for:
+# Some organizations I've done work for:
   - [Population and Survey Analysts](https://pasatx.com/)
   - [The Commit Partnership](https://commitpartnership.org/)
+  - [GroundworkDFW](https://groundworkdfw.org/)
 
 <!---
 nightwatch-analytics/nightwatch-analytics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
